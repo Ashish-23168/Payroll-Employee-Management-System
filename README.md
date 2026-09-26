@@ -18,11 +18,11 @@
 
 # The whole project is under a complete rewrite.I am completely writing it with the laravel framework.with some new features.
 
-Check it out here and https://github.com/MusheAbdulHakim/Laravel-Smarthr
+Check it out here and 
  
 #screenshots
 
 ![screenshot](https://github.com/Ashish-23168/Payroll-Employee-Management-System/blob/main/screenshot/login.png?raw=true)
 ![Dashboard](https://github.com/Ashish-23168/Payroll-Employee-Management-System/blob/main/screenshot/dashboard.png?raw=true)
 ![Dashboard](https://github.com/Ashish-23168/Payroll-Employee-Management-System/blob/main/screenshot/employees.png?raw=true)
-![Dashboard](screenshots/employees.png?raw=true "employees page")
+![Dashboard](https://github.com/Ashish-23168/Payroll-Employee-Management-System/blob/main/screenshot/clients.png?raw=true)
