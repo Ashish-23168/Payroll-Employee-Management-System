@@ -22,7 +22,7 @@ Check it out here and https://github.com/MusheAbdulHakim/Laravel-Smarthr
  
 #screenshots
 
-![image](https://github.com/Ashish-23168/Payroll-Employee-Management-System/blob/main/screenshot/login.png?raw=true)
-![Dashboard](screenshots/dashboard.png?raw=true "Dashbaord page")
+![screenshot](https://github.com/Ashish-23168/Payroll-Employee-Management-System/blob/main/screenshot/login.png?raw=true)
+![Dashboard](https://github.com/Ashish-23168/Payroll-Employee-Management-System/blob/main/screenshot/dashboard.png?raw=true)
 ![Dashboard](screenshots/clients.png?raw=true "Clients page")
 ![Dashboard](screenshots/employees.png?raw=true "employees page")
