@@ -22,7 +22,7 @@ Check it out here and https://github.com/MusheAbdulHakim/Laravel-Smarthr
  
 #screenshots
 
-![ScreenShot](screenshots/login.png?raw=true "Login page")
+![ScreenShot]("https://github.com/Ashish-23168/Payroll-Employee-Management-System/blob/main/screenshot/login.png?raw=true")
 ![Dashboard](screenshots/dashboard.png?raw=true "Dashbaord page")
 ![Dashboard](screenshots/clients.png?raw=true "Clients page")
 ![Dashboard](screenshots/employees.png?raw=true "employees page")
